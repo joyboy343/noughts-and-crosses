@@ -78,7 +78,7 @@ g++ -std=c++20 src/main.cpp -o noughts.exe
 ## Documentation
 
 - `docs/Doxygen.pdf` — Auto-generated source code documentation  
-- `docs/Noughts and Crosses.pdf` — Project report (design, logic,testing and explanation)
+- `docs/Noughts and Crosses.pdf` — Project report (design, logic, testing and explanation)
 
 ---
 
